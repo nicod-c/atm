@@ -1,0 +1,14 @@
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\1er_cuatri_aug20\estructura_de_datos\2do parcial simulacro\parcial2\parcial2\bin\Debug\parcial2.exe.config
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\1er_cuatri_aug20\estructura_de_datos\2do parcial simulacro\parcial2\parcial2\bin\Debug\parcial2.exe
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\1er_cuatri_aug20\estructura_de_datos\2do parcial simulacro\parcial2\parcial2\bin\Debug\parcial2.pdb
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\1er_cuatri_aug20\estructura_de_datos\2do parcial simulacro\parcial2\parcial2\obj\Debug\parcial2.csprojAssemblyReference.cache
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\1er_cuatri_aug20\estructura_de_datos\2do parcial simulacro\parcial2\parcial2\obj\Debug\parcial2.csproj.CoreCompileInputs.cache
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\1er_cuatri_aug20\estructura_de_datos\2do parcial simulacro\parcial2\parcial2\obj\Debug\parcial2.exe
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\1er_cuatri_aug20\estructura_de_datos\2do parcial simulacro\parcial2\parcial2\obj\Debug\parcial2.pdb
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\1er_cuatri_aug20\estructura_de_datos\2do _parcial_simulacro\parcial2\parcial2\bin\Debug\parcial2.exe.config
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\1er_cuatri_aug20\estructura_de_datos\2do _parcial_simulacro\parcial2\parcial2\bin\Debug\parcial2.exe
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\1er_cuatri_aug20\estructura_de_datos\2do _parcial_simulacro\parcial2\parcial2\bin\Debug\parcial2.pdb
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\1er_cuatri_aug20\estructura_de_datos\2do _parcial_simulacro\parcial2\parcial2\obj\Debug\parcial2.csprojAssemblyReference.cache
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\1er_cuatri_aug20\estructura_de_datos\2do _parcial_simulacro\parcial2\parcial2\obj\Debug\parcial2.csproj.CoreCompileInputs.cache
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\1er_cuatri_aug20\estructura_de_datos\2do _parcial_simulacro\parcial2\parcial2\obj\Debug\parcial2.exe
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\1er_cuatri_aug20\estructura_de_datos\2do _parcial_simulacro\parcial2\parcial2\obj\Debug\parcial2.pdb
