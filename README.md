@@ -1,4 +1,4 @@
-Aplicación de consola desarrollada en .NET con C#.
+Aplicación de consola desarrollada con C#.
 Ejercicio de la materia "Estructura de Datos" donde debíamos simular la operación de un ATM (cajero automático).
 Para ingresar una vez ejecutado:
 número de tarjeta: 1111
